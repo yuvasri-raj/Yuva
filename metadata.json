@@ -1,0 +1,6 @@
+{
+  "name": "Agro Vision",
+  "description": "Smart AI-powered Agriculture Platform for crop recommendation, disease detection, soil health, market prices, and farmer community.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
